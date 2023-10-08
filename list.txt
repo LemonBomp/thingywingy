@@ -1,0 +1,45 @@
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.mt
+127.0.0.1 analytics.google.com
+127.0.0.1 clientmetrics-pa.googleapis.com
+127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 google-analytics.com
+127.0.0.1 googleadservices.com
+127.0.0.1 googleanalytics.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 googletagmanager.com
+127.0.0.1 googletagservices.com
+127.0.0.1 mail-ads.google.com
+127.0.0.1 pagead.l.google.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 video-stats.video.google.com
+127.0.0.1 wintricksbanner.googlepages.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 googletagservices.com
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.co.za
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
+127.0.0.1 adservice.google.cz
+127.0.0.1 adservice.google.nl
+127.0.0.1 affiliate.googleusercontent.com
+127.0.0.1 buttons.googlesyndication.com
+127.0.0.1 drm-google-analtyic.com
+127.0.0.1 googledrive-en.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 static-google-analtyic.com
+127.0.0.1 tpc.googlesyndication.com
+
+
+
+
+
+
+
+
+
+
+
+
+
